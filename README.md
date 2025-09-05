@@ -1,8 +1,10 @@
 ## React Redux Food Cart
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 A simple food ordering application built with React and Redux to demonstrate state management for a shopping cart.
@@ -36,6 +38,26 @@ Here are some screenshots of the React Redux Food Cart app:
 - **HTML5 & CSS3** — For structure and styling.
 
 ---
+
+## File Structure
+
+```
+.
+├── index.html
+├── main.jsx
+├── package.json
+├── package-lock.json
+├── README.md
+├── redux/
+│   ├── slicer/
+│   └── store/
+├── src/
+│   ├── body.jsx
+│   ├── Cart.jsx
+│   ├── FoodItems.jsx
+│   └── Header.jsx
+└── styles.css
+```
 
 ## Getting Started
 
@@ -80,6 +102,11 @@ Contributions are what make the open-source community such an amazing place to l
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
+
+---
+
+
+**Made with 🧡 & chaos** – because PERFECT apps are boring!  
 
 ---
 
